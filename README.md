@@ -1,4 +1,4 @@
-# Veri-Yapilari-Ve-Algoritmalar-Kursu
+# Sorting - Algorithms
 
 
 https://www.patika.dev/tr
